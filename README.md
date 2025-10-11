@@ -19,7 +19,7 @@ My journey started with **HTML and CSS**, and over the years, I’ve grown into 
 ### 🛠️ **Technologies I’ve Worked With**
 
 #### **Frontend**
-JavaScript (ES6+), TypeScript, React, Vue.js, React Native, AngularJS, Gatsby, jQuery,  
+JavaScript (ES6+), React, Vue.js, React Native, AngularJS, Gatsby, jQuery,  
 Web Components, PWA, StimulusJS, Hotwire (Turbo + Rails), HTML5, CSS3, SCSS
 
 #### **UI Frameworks & Design Systems**
