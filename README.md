@@ -57,7 +57,7 @@ Outside of engineering, I’m passionate about **sketching** and **sculpting min
 
 ### 📫 **Let’s Connect**
 - 💼 [LinkedIn](https://www.linkedin.com/in/atul-ubarhande-74017086)  
-- 💻 [Portfolio / Resume](https://app.enhancv.com/share/42ae7bfa/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)  
+- 💻 [Portfolio / Resume](https://app.enhancv.com/share/6c36f215/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)  
 - ✉️ atul612@gmail.com  
 
 ---
