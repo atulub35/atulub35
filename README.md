@@ -1,9 +1,6 @@
 ## 👋 Hi, I’m **Atul Ubarhande**
 
-I’m a **Frontend Engineer** with 8+ years of experience crafting modern, scalable, and maintainable web applications.  
-I love building clean, efficient, and user-focused interfaces — and taking ownership from design to deployment.
-
-My journey started with **HTML and CSS**, and over the years, I’ve grown into leading **frontend architecture**, mentoring teams, and delivering production-grade systems that balance **performance**, **usability**, and **developer experience**.
+Frontend Engineer with 8+ years of experience in modern JavaScript frameworks and Ruby on Rails. Expert in migrating large legacy systems, improving UI performance, and optimizing user experience. Strong focus on clean architecture, scalability, and mentoring teams towards best development practices. Hands-on, reliable, and passionate about building efficient, maintainable frontend systems.
 
 ---
 
@@ -57,7 +54,6 @@ Outside of engineering, I’m passionate about **sketching** and **sculpting min
 
 ### 📫 **Let’s Connect**
 - 💼 [LinkedIn](https://www.linkedin.com/in/atul-ubarhande-74017086)  
-- 💻 [Portfolio / Resume](https://app.enhancv.com/share/6c36f215/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)  
 - ✉️ atul612@gmail.com  
 
 ---
