@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m **Atul Ubarhande**
 
-Frontend Engineer with 8+ years of experience in modern JavaScript frameworks and Ruby on Rails. Expert in migrating large legacy systems, improving UI performance, and optimizing user experience. Strong focus on clean architecture, scalability, and mentoring teams towards best development practices. Hands-on, reliable, and passionate about building efficient, maintainable frontend systems.
+Frontend Engineer with 8+ years of experience in modern JavaScript frameworks (ReactJs, VueJs, React Native). Expert in migrating large legacy systems, improving UI performance, and optimizing user experience. Strong focus on clean architecture, scalability, and mentoring teams towards best development practices. Hands-on, reliable, and passionate about building efficient, maintainable frontend systems.
 
 ---
 
